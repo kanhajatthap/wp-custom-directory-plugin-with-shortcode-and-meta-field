@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Custom Directory Plugin
 * Plugin URI: https://github.com/kanhajatthap
-* Description: This plugin is provide directorys.
+* Description: This plugin is provide directorys, WP Custom Directory plugin with Shortcode and Meta Field
 * Version: 0.1
 * Author: Kanha jatthap
 * Author URI: https://github.com/kanhajatthap
