@@ -8,7 +8,6 @@
 * Author URI: https://github.com/kanhajatthap
 **/
 
-
 // Custom Post Type: Directory
 include('custom-post-types.php');
 add_action( 'init', 'directory_init' );
@@ -18,5 +17,4 @@ include('custom-fields.php');
 add_action( 'init', 'directory_init' );
 
 ?>
-
 <?php
